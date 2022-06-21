@@ -33,5 +33,3 @@ Many readers of vos Savant's column refused to believe switching is beneficial a
 The problem is a paradox of the veridical type, because Vos Savant's solution is so counterintuitive it can seem absurd, but is nevertheless demonstrably true. The Monty Hall problem is mathematically closely related to the earlier Three Prisoners problem and to the much older Bertrand's box paradox.
 
 ![image](https://user-images.githubusercontent.com/60455005/174881287-3671f88c-b522-47ae-acd6-9b9026eff058.png)
-
-![image](https://user-images.githubusercontent.com/60455005/174881274-03386f23-ed2f-46f2-ae69-8b0ac864e7d0.png)
